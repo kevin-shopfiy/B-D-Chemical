@@ -1,0 +1,278 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "B & D Chemical",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Let us help you with your chemical & fertilizer needs!",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Build Quote Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "Contact Us",
+            "button_link_2": "shopify:\/\/pages\/contact",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "custom_css": [
+        "h2 {color: white;}",
+        "div.banner__text {font-size: 28px; color: whitesmoke;}",
+        ".button {background: #304aa7; color: white; border-block-color: red;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-aerial-facility-photo-CONSTRAST.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "57ca42ad-5e51-4f50-961f-3d668591e152": {
+      "type": "collection-list",
+      "blocks": {
+        "template--17803988926753__57ca42ad-5e51-4f50-961f-3d668591e152-167752347335db58d6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "adjuvants"
+          }
+        },
+        "template--17803988926753__57ca42ad-5e51-4f50-961f-3d668591e152-167752347335db58d6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fungicides"
+          }
+        },
+        "2b6ea236-20d4-48ed-ba14-b32a6826187d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "at-plant-fungicides-insecticides"
+          }
+        },
+        "template--17803988926753__57ca42ad-5e51-4f50-961f-3d668591e152-167752347335db58d6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "herbicides"
+          }
+        },
+        "b6990fbc-6c42-44b2-89a4-77e8267188dd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "insecticides"
+          }
+        },
+        "77292856-0990-43f7-8370-3e05f5633bfc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seed-treatments"
+          }
+        },
+        "2965845c-8f53-4a06-8405-61b4ba50f3cc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fertilizer-additives-micronutrients-other"
+          }
+        }
+      },
+      "block_order": [
+        "template--17803988926753__57ca42ad-5e51-4f50-961f-3d668591e152-167752347335db58d6-0",
+        "template--17803988926753__57ca42ad-5e51-4f50-961f-3d668591e152-167752347335db58d6-1",
+        "2b6ea236-20d4-48ed-ba14-b32a6826187d",
+        "template--17803988926753__57ca42ad-5e51-4f50-961f-3d668591e152-167752347335db58d6-2",
+        "b6990fbc-6c42-44b2-89a4-77e8267188dd",
+        "77292856-0990-43f7-8370-3e05f5633bfc",
+        "2965845c-8f53-4a06-8405-61b4ba50f3cc"
+      ],
+      "settings": {
+        "title": "Products by Category",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6626d51e-2f13-4fef-b13d-b6b59e6440b5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17803988926753__6626d51e-2f13-4fef-b13d-b6b59e6440b5-1677526612693082a6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About B & D Chemical",
+            "heading_size": "h1"
+          }
+        },
+        "template--17803988926753__6626d51e-2f13-4fef-b13d-b6b59e6440b5-1677526612693082a6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>B and D Chemical, Inc. was started in 2004 by Brandon Grubbs and Darrell Haag of Cullom, Illinois.<br\/><br\/>Located in the heart of Illinois’ corn and soybean production area, B and D Chemical specializes in agriculture chemical sales, liquid fertilizers, and agronomy.<br\/><br\/>Darrell and Brandon have 50 cumulative years of experience in the chemical and application business and are always attempting to stay on top of the current market with a large knowledge base and expert resources. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17803988926753__6626d51e-2f13-4fef-b13d-b6b59e6440b5-1677526612693082a6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "template--17803988926753__6626d51e-2f13-4fef-b13d-b6b59e6440b5-1677526612693082a6-0",
+        "template--17803988926753__6626d51e-2f13-4fef-b13d-b6b59e6440b5-1677526612693082a6-1",
+        "template--17803988926753__6626d51e-2f13-4fef-b13d-b6b59e6440b5-1677526612693082a6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bandd-chemical-warehouse-inside.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 44
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Competitive Pricing",
+            "text": "<p>B & D Chemical is able to provide very competitive pricing with buying power, created by the sheer volume that goes out the door.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "Rebates & Support",
+            "text": "<p>We participate in most manufacturer's retail programs, giving you access to manufacturer's rebates and support. We also offer many generic products that may fit your farming operations.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Solutions",
+            "text": "<p>B & D Chemical, Inc. covers a significant geography which allows us to gather experience and solutions to many problrms before they arise in the immediate trade area.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "Why Choose B & D",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eea89dfb-f3ec-4029-aea4-619289e27bc2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17803988926753__eea89dfb-f3ec-4029-aea4-619289e27bc2-1677537962087fe680-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us",
+            "heading_size": "h1"
+          }
+        },
+        "template--17803988926753__eea89dfb-f3ec-4029-aea4-619289e27bc2-1677537962087fe680-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17803988926753__eea89dfb-f3ec-4029-aea4-619289e27bc2-1677537962087fe680-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17803988926753__eea89dfb-f3ec-4029-aea4-619289e27bc2-1677537962087fe680-0",
+        "template--17803988926753__eea89dfb-f3ec-4029-aea4-619289e27bc2-1677537962087fe680-1",
+        "template--17803988926753__eea89dfb-f3ec-4029-aea4-619289e27bc2-1677537962087fe680-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bandd-chemical-warehouse-inside.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "57ca42ad-5e51-4f50-961f-3d668591e152",
+    "6626d51e-2f13-4fef-b13d-b6b59e6440b5",
+    "multicolumn",
+    "eea89dfb-f3ec-4029-aea4-619289e27bc2"
+  ]
+}

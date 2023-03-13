@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "d898d4da-5947-46c5-8491-084ae5ffc9e0": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18083579724065__d898d4da-5947-46c5-8491-084ae5ffc9e0-1677698863633db276-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enduraplas Platinum Dealer",
+            "heading_size": "h2"
+          }
+        },
+        "template--18083579724065__d898d4da-5947-46c5-8491-084ae5ffc9e0-1677698863633db276-1": {
+          "type": "text",
+          "settings": {
+            "text": "Being a Platinum Dealer, we have made an exceptional investment to provide you access to a comprehensive line of products ‘year-round’. That way, our customers don't have to place orders and wait for delivery - they can count on us to have these products in our inventory. If you can't see the product you're looking for, contact us to discuss more options.",
+            "text_style": "body"
+          }
+        },
+        "template--18083579724065__d898d4da-5947-46c5-8491-084ae5ffc9e0-1677698863633db276-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18083579724065__d898d4da-5947-46c5-8491-084ae5ffc9e0-1677698863633db276-0",
+        "template--18083579724065__d898d4da-5947-46c5-8491-084ae5ffc9e0-1677698863633db276-1",
+        "template--18083579724065__d898d4da-5947-46c5-8491-084ae5ffc9e0-1677698863633db276-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/above-ground-tanks-enduraplas.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 5,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "adf7e81e-eb11-4302-813e-689dec383a7a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18083579724065__adf7e81e-eb11-4302-813e-689dec383a7a-16776994507ff7f812-0": {
+          "type": "column",
+          "settings": {
+            "title": "Great to work with",
+            "text": "<p>B&D Chemical is great to work with. Brandon set up our farm with all the tanks we needed. <\/p><p>- Happy Farmer1<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18083579724065__adf7e81e-eb11-4302-813e-689dec383a7a-16776994507ff7f812-1": {
+          "type": "column",
+          "settings": {
+            "title": "Quick setup",
+            "text": "<p>Quick response, and since they had what I needed in stock, they were able to set up when I needed it. <\/p><p>- Joel B.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18083579724065__adf7e81e-eb11-4302-813e-689dec383a7a-16776994507ff7f812-2": {
+          "type": "column",
+          "settings": {
+            "title": "Customer Service",
+            "text": "<p>B&D has great customer service. They always call back when I need service, and I don't have to wait 3 months to get my tanks.<\/p><p>- Gary S.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18083579724065__adf7e81e-eb11-4302-813e-689dec383a7a-16776994507ff7f812-0",
+        "template--18083579724065__adf7e81e-eb11-4302-813e-689dec383a7a-16776994507ff7f812-1",
+        "template--18083579724065__adf7e81e-eb11-4302-813e-689dec383a7a-16776994507ff7f812-2"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f92eb9e8-ec9e-4a9d-9f10-a487505dd986": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "d898d4da-5947-46c5-8491-084ae5ffc9e0",
+    "banner",
+    "product-grid",
+    "adf7e81e-eb11-4302-813e-689dec383a7a",
+    "f92eb9e8-ec9e-4a9d-9f10-a487505dd986"
+  ]
+}
